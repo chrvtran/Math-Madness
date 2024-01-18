@@ -1,4 +1,4 @@
-# CS576-final-project
+# Math Madness
 Final project for CS 576: Game programming
 Contributors: Eric Wu, Victor Lee, Christopher Tran
 
